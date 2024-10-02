@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Fauna+One:wght@400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fauna One', sans-serif; /* Primary font for body text */
+  font-size: 16px; /* Base font size for readability */
+  line-height: 1.6; /* Improved line height for readability */
+  background-color: #f5f5f5; /* Subtle grey background for a clean, modern look */
+  color: #333333; /* Dark text color for contrast and readability */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.app {
+  max-width: 85%vm; /* Constrains width for a more readable content area */
+  margin: 40px auto; /* Centers the container with some margin for spacing */
+  padding: 20px; /* Adds padding for a balanced layout */
+  background-color: #ffffff; /* White background for main content */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a lifted effect */
+  border-radius: 8px; /* Rounded corners for a more refined appearance */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', serif; /* Elegant serif font for headings */
+  color: rgb(129, 88, 11); /* Darker color for prominent headings */
+  margin-bottom: 16px; /* Adds spacing after headings */
+}
+
+p {
+  margin-bottom: 16px; /* Adds space between paragraphs for better readability */
+}
+
+a {
+  color: #64778a; /* Color for links */
+  text-decoration: none; /* Removes default underline */
+  font-weight: 600; /* Bolder links for better visibility */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+a:hover {
+  color: #3d4756; /* Darker color on hover for emphasis */
+}
+
+button {
+  font-family: 'Fauna One', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #957d4f; /* Muted accent color for buttons */
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #77643f; /* Darkens on hover for an interactive effect */
+}
