@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aryan4GIT/pitchathon2024/static/css/main.5c1c490d.css",
+    "main.js": "/Aryan4GIT/pitchathon2024/static/js/main.3cf05b5b.js",
+    "static/media/vecteezy_industry-engineering-wearing-safety-uniform-control_6724796.jpg": "/Aryan4GIT/pitchathon2024/static/media/vecteezy_industry-engineering-wearing-safety-uniform-control_6724796.b5fb721ac2540a0dd0f3.jpg",
+    "static/media/vecteezy_construction-worker-wearing-safety-gear_1227213.jpg": "/Aryan4GIT/pitchathon2024/static/media/vecteezy_construction-worker-wearing-safety-gear_1227213.38840a4f4748893c0d68.jpg",
+    "static/media/wallpaperflare.com_wallpaper (1).jpg": "/Aryan4GIT/pitchathon2024/static/media/wallpaperflare.com_wallpaper (1).05f1b8da53b394dd0a3c.jpg",
+    "static/media/pexels-bravestone-860714737-27928762.jpg": "/Aryan4GIT/pitchathon2024/static/media/pexels-bravestone-860714737-27928762.7c9d47bcb2698c4c775a.jpg",
+    "index.html": "/Aryan4GIT/pitchathon2024/index.html",
+    "main.5c1c490d.css.map": "/Aryan4GIT/pitchathon2024/static/css/main.5c1c490d.css.map",
+    "main.3cf05b5b.js.map": "/Aryan4GIT/pitchathon2024/static/js/main.3cf05b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1c490d.css",
+    "static/js/main.3cf05b5b.js"
+  ]
+}
